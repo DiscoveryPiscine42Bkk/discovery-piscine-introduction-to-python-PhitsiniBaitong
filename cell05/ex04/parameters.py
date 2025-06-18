@@ -1,3 +1,3 @@
 import sys
 
-print(len(sys.aygv) -1)
+print(len(sys.aygv) - 1)
